@@ -1,5 +1,5 @@
 {
-  "name": "amazona",
+  "name": "multihair",
   "version": "1.0.0",
   "description": "# Lessons",
   "main": "index.js",
@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/basir/mern-amazona.git"
+    "url": "git+https://github.com/tiendat1234/Multihair.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/basir/mern-amazona/issues"
+    "url": "https://github.com/tiendat1234/Multihair/issues"
   },
-  "homepage": "https://github.com/basir/mern-amazona#readme"
+  "homepage": "https://github.com/tiendat1234/Multihair#readme"
 }
